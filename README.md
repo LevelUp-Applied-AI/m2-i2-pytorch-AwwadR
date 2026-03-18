@@ -18,7 +18,7 @@ This model predicts apartment price in Jordanian Dinars (`price_jod`) using five
 ## Training outcome
 The model trained successfully and the loss decreased over time, which shows the model learned patterns from the dataset.
 
-Final loss value: Epoch 100: Loss = Epoch 100: Loss = 1880070016.0000
+Final loss value: Epoch 100: Loss = 1880070016.0000
 
 ## Observation
 Loss decreased steadily across training, and using a slightly higher learning rate helped the model learn faster within 100 epochs.
